@@ -1,0 +1,7 @@
+C:\Users\Henrique\Documents\Exercicio1\TestTryParse\bin\Debug\TestTryParse.exe.config
+C:\Users\Henrique\Documents\Exercicio1\TestTryParse\bin\Debug\TestTryParse.exe
+C:\Users\Henrique\Documents\Exercicio1\TestTryParse\bin\Debug\TestTryParse.pdb
+C:\Users\Henrique\Documents\Exercicio1\TestTryParse\obj\Debug\TestTryParse.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Documents\Exercicio1\TestTryParse\obj\Debug\TestTryParse.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Exercicio1\TestTryParse\obj\Debug\TestTryParse.exe
+C:\Users\Henrique\Documents\Exercicio1\TestTryParse\obj\Debug\TestTryParse.pdb
