@@ -72,6 +72,7 @@ namespace Exercicio1
             else
             {
                 Console.WriteLine("Client money back, because there is no enough money. Try later");
+                tool18 = true;
             }
             this.pennyCoin += format[0];
 

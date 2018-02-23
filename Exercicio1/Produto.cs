@@ -16,7 +16,7 @@ namespace Exercicio1
         private float price;
         private uint code;
 
-        Produto()
+        public Produto()
         {
             /*
              *The constructor will asign the values for itself propert.

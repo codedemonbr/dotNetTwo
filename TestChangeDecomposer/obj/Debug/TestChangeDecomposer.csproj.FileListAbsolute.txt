@@ -1,0 +1,7 @@
+C:\Users\Henrique\Documents\Exercicio1\TestChangeDecomposer\bin\Debug\TestChangeDecomposer.exe.config
+C:\Users\Henrique\Documents\Exercicio1\TestChangeDecomposer\bin\Debug\TestChangeDecomposer.exe
+C:\Users\Henrique\Documents\Exercicio1\TestChangeDecomposer\bin\Debug\TestChangeDecomposer.pdb
+C:\Users\Henrique\Documents\Exercicio1\TestChangeDecomposer\obj\Debug\TestChangeDecomposer.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Exercicio1\TestChangeDecomposer\obj\Debug\TestChangeDecomposer.exe
+C:\Users\Henrique\Documents\Exercicio1\TestChangeDecomposer\obj\Debug\TestChangeDecomposer.pdb
+C:\Users\Henrique\Documents\Exercicio1\TestChangeDecomposer\obj\Debug\TestChangeDecomposer.csprojResolveAssemblyReference.cache
